@@ -67,7 +67,7 @@
     <div id="#top"></div>
     <section id="home">
         <div class="banner-container">
-            <img src="images/banner-bg.jpg" alt="banner" />
+            <img src="images/portfolio/banner-bg.jpg" alt="banner" />
             <div class="container banner-content">
                 <div id="da-slider" class="da-slider">
                     <div class="da-slide">
